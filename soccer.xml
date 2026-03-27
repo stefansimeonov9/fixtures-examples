@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scores sport="soccer" updated="27.03.2026 15:45:40">
+<scores sport="soccer" updated="27.03.2026 15:45:41">
   <category name="England: Premier League" gid="1204" id="1204" file_group="england" iscup="False">
     <matches date="Mar 27" formatted_date="27.03.2026">
       <match status="FT" timer="" inj_time="" inj_minute="" date="Mar 27" formatted_date="27.03.2026" time="15:48" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="11111" fix_id="1111" id="1111">
@@ -8,9 +8,9 @@
         <events/>
         <ht score=""/>
       </match>
-      <match status="15:49" timer="" inj_time="" inj_minute="" date="Mar 27" formatted_date="27.03.2026" time="15:49" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="22222" fix_id="2222" id="2222">
-        <localteam name="Arsenal" goals="?" id="9002"/>
-        <visitorteam name="Bournemouth" goals="?" id="9053"/>
+      <match status="1'" timer="1" inj_time="" inj_minute="" date="Mar 27" formatted_date="27.03.2026" time="15:49" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="22222" fix_id="2222" id="2222">
+        <localteam name="Arsenal" goals="0" id="9002"/>
+        <visitorteam name="Bournemouth" goals="0" id="9053"/>
         <events/>
         <ht score=""/>
       </match>
