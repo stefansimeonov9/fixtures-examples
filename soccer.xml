@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scores sport="soccer" updated="27.03.2026 15:45:43">
+<scores sport="soccer" updated="27.03.2026 15:45:44">
   <category name="England: Premier League" gid="1204" id="1204" file_group="england" iscup="False">
     <matches date="Mar 27" formatted_date="27.03.2026">
       <match status="FT" timer="" inj_time="" inj_minute="" date="Mar 27" formatted_date="27.03.2026" time="15:48" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="11111" fix_id="1111" id="1111">
@@ -14,9 +14,9 @@
         <events/>
         <ht score=""/>
       </match>
-      <match status="1'" timer="1" inj_time="" inj_minute="" date="Mar 27" formatted_date="27.03.2026" time="15:50" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="33333" fix_id="3333" id="3333">
-        <localteam name="Brentford" goals="0" id="9059"/>
-        <visitorteam name="Everton" goals="0" id="9158"/>
+      <match status="FT" timer="" inj_time="" inj_minute="" date="Mar 27" formatted_date="27.03.2026" time="15:50" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="33333" fix_id="3333" id="3333">
+        <localteam name="Brentford" goals="3" id="9059"/>
+        <visitorteam name="Everton" goals="2" id="9158"/>
         <events/>
         <ht score=""/>
       </match>
