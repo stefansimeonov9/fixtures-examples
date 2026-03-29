@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scores sport="soccer" updated="29.03.2026 22:54:39">
+<scores sport="soccer" updated="29.03.2026 22:56:01">
   <category name="England: Premier League" gid="1204" id="1204" file_group="england" iscup="False">
     <matches date="Mar 29" formatted_date="29.03.2026">
-      <match status="22:57" timer="" inj_time="" inj_minute="" date="Mar 29" formatted_date="29.03.2026" time="22:57" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="73457" fix_id="6999" id="6999">
+      <match status="22:58" timer="" inj_time="" inj_minute="" date="Mar 29" formatted_date="29.03.2026" time="22:58" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="62812" fix_id="7585" id="7585">
         <localteam name="West Ham" goals="?" id="9427"/>
         <visitorteam name="Wolves" goals="?" id="9446"/>
         <events/>
         <ht score=""/>
       </match>
-      <match status="22:58" timer="" inj_time="" inj_minute="" date="Mar 29" formatted_date="29.03.2026" time="22:58" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="72361" fix_id="3476" id="3476">
+      <match status="22:59" timer="" inj_time="" inj_minute="" date="Mar 29" formatted_date="29.03.2026" time="22:59" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="64016" fix_id="1194" id="1194">
         <localteam name="Arsenal" goals="?" id="9002"/>
         <visitorteam name="Bournemouth" goals="?" id="9053"/>
         <events/>
         <ht score=""/>
       </match>
-      <match status="22:59" timer="" inj_time="" inj_minute="" date="Mar 29" formatted_date="29.03.2026" time="22:59" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="63039" fix_id="3791" id="3791">
+      <match status="23:00" timer="" inj_time="" inj_minute="" date="Mar 29" formatted_date="29.03.2026" time="23:00" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="18466" fix_id="8093" id="8093">
         <localteam name="Brentford" goals="?" id="9059"/>
         <visitorteam name="Everton" goals="?" id="9158"/>
         <events/>
