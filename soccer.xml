@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scores sport="soccer" updated="30.03.2026 00:22:51">
+<scores sport="soccer" updated="30.03.2026 00:22:52">
   <category name="England: Premier League" gid="1204" id="1204" file_group="england" iscup="False">
     <matches date="Mar 30" formatted_date="30.03.2026">
-      <match status="00:25" timer="" inj_time="" inj_minute="" date="Mar 30" formatted_date="30.03.2026" time="00:25" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="89443" fix_id="6016" id="6016">
-        <localteam name="West Ham" goals="?" id="9427"/>
-        <visitorteam name="Wolves" goals="?" id="9446"/>
+      <match status="1'" timer="1" inj_time="" inj_minute="" date="Mar 30" formatted_date="30.03.2026" time="00:25" commentary_available="0" heatmap="" venue="" coveredLive="True" v="0" static_id="89443" fix_id="6016" id="6016">
+        <localteam name="West Ham" goals="0" id="9427"/>
+        <visitorteam name="Wolves" goals="0" id="9446"/>
         <events/>
         <ht score=""/>
       </match>
